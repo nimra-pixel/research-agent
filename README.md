@@ -59,4 +59,4 @@ Get a free Groq API key at **console.groq.com**
 
 ---
 
-Built by [Nimra](https://linkedin.com/in/yourprofile) · Part of a 5-project AI Engineer portfolio
+Built by [Nimra](https://linkedin.com/in/yourprofile) ·  
