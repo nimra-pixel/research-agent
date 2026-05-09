@@ -72,7 +72,7 @@ st.markdown("""
 
 # ── Groq API ──────────────────────────────────────────────────────────────────
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL    = "llama3-70b-8192"
+MODEL = "llama-3.3-70b-versatile"
 
 def groq_call(messages: List[Dict], temperature=0.3, max_tokens=2048) -> str:
     api_key = st.secrets.get("GROQ_API_KEY", "")
